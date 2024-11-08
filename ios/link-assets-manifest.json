@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/fonts/Shippori_Mincho/OFL.txt",
+      "sha1": "3e97ba521d2a48c616c578183267b1b8e75d1fa3"
+    },
+    {
+      "path": "src/fonts/Shippori_Mincho/ShipporiMincho-Bold.ttf",
+      "sha1": "78b7506f39f6b2d72d3ffcf0ac341d480030564e"
+    },
+    {
+      "path": "src/fonts/Shippori_Mincho/ShipporiMincho-ExtraBold.ttf",
+      "sha1": "1894e0f6bae9cb1284f95f7632dc44f708aec08b"
+    },
+    {
+      "path": "src/fonts/Shippori_Mincho/ShipporiMincho-Medium.ttf",
+      "sha1": "21e2ff01eda53a71c6632305ac46d5bd660c365a"
+    },
+    {
+      "path": "src/fonts/Shippori_Mincho/ShipporiMincho-Regular.ttf",
+      "sha1": "c0502ea5c1f325358f3509898251244b824decc3"
+    },
+    {
+      "path": "src/fonts/Shippori_Mincho/ShipporiMincho-SemiBold.ttf",
+      "sha1": "57e70f0cc1273e8033bd6fe44ea9e93d684c4e86"
+    }
+  ]
+}
